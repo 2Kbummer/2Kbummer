@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin @2Kbummer
 - 👀 I’m interested in Python, Machine learning, Deep learning, Science/Medicine
-- 🌱 I’m currently learning Deep learning
+- 🌱 I’m currently learning Automation scripts
 - 💞️ I’m looking to collaborate on Python projects
 
 <!---
